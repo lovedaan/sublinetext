@@ -1,0 +1,2 @@
+在设置-用户修改：
+"theme": "Soda Light.sublime-theme"
